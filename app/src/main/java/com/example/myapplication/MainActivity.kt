@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         btn.setOnClickListener{
             tv.text ="Kliknales button"
         }
+//        dsadsa
     }
 }
